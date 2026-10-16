@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**pablodegomas-source/pablodegomas-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Hyrlander Pinheiro! 👋
 
-Here are some ideas to get you started:
+Estudante de tecnologia focado em desenvolvimento de software e lógica de programação. Atualmente terminando o Ensino Médio e me preparando para iniciar a faculdade de Análise e Desenvolvimento de Sistemas (ADS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mi:
+- 📅 **Meta Atual:** Resolvendo os 100 desafios de Python do Curso em Vídeo (estou no Mundo 1!).
+- 💻 **Tecnologias:** Python (focado em lógica), Git e GitHub.
+- 🎯 **Objetivo:** Conquistar minha primeira vaga de estágio na área de TI durante a faculdade.
+
+### 📊 Minhas Estatísticas:
+✨ *Construindo consistência no código um dia de cada vez.* ✨
+
